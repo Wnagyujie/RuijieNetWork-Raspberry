@@ -1,0 +1,12 @@
+1. 记录的时间:2018-08-29.
+2. 用户名:201541875309.
+3. 软件版本:RG_SU_For_Windows 6.82.
+4. 客户名称(软件标题):湖南农业大学校园网认证客户端.
+5. Authentication Timeout:3.
+6. Start Timeout:3.
+7. Number of start attemps:3.
+8. DHCP使用方式:不使用.
+9. DHCP服务器响应时间:30.
+10. 自助服务器URL地址:http://10.100.0.11:8080/z-os/self/.
+11. AD域统一认证超时时间:120.
+12. 认证使用的网卡名称:Realtek PCIe GBE Family Controller.
